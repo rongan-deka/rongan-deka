@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rongan DEka
+# 👋 Hi, I'm Rongan Deka
 **Incoming Computer Science Student | MOTC '24 Participant | Aspiring Software Engineer**
 
 ### 🏆 Achievement Highlight
