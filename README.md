@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Rongan DEka
+**Incoming Computer Science Student | MOTC '24 Participant | Aspiring Software Engineer**
 
-<!--
-**rongan-deka/rongan-deka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 Achievement Highlight
+* **Mathematical Olympiad Training Camp (MOTC) 2024 | IIT Guwahati**
+  * Selected as one of the top students in the North-East region for advanced mathematical training by HBCSE and IITG.
 
-Here are some ideas to get you started:
+### 🚀 Current Goals (April - Sept 2026)
+- [x] **Python v1.0:** Completed Library Management System with Data Viz.
+- [ ] **C++ Mastery:** Learning low-level programming via learncpp.com (Starting April 7).
+- [ ] **DSA Sprint:** Mastering Data Structures & Algorithms for Google STEP 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** Python (Proficient), C++ (Learning), MySQL
+* **Libraries:** Pandas, Matplotlib, NumPy
+* **Tools:** Git, GitHub, Visual Studio Community
+  
